@@ -1,4 +1,4 @@
-name: "App Center"
+name: "App Center - Bdv"
 description: "GitHub Action that uploads artefacts for Visual Studio App Center"
 author: "Bedivere <@thelionx>, forked from Wojciech Zięba <@wzieba>"
 inputs:
